@@ -1,0 +1,5 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 40L30 10H50L30 40H10Z" fill="#000"/>
+  <path d="M60 10H80L100 40H80L60 10Z" fill="#000"/>
+  <text x="110" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#000">LIBRARY</text>
+</svg>
